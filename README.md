@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-About me:
+# About Me:
 
 - 🔭 I’m currently working on ...
 Some good stuff
