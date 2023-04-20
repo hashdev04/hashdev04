@@ -14,9 +14,9 @@ Elixir
 - 📫 How to reach me: ...
 Via Email
 - 😄 Pronouns: ...
-- He/Him
+He/Him
 - ⚡ Fun fact: ...
-- While it took the radio 38 years and the television a short 13 years, it took the internet only 4 years to reach 50 million users
+While it took the radio 38 years and the television a short 13 years, it took the internet only 4 years to reach 50 million users
 
 
 ## 🌐 Socials:
